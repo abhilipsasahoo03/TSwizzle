@@ -1,4 +1,7 @@
+<img src="./tswizzle.png" align="center"/>
+
 # TSwizzle
+
 A Taylor Swift lyrics inspired esolang written in Python.
 
 ## Experience
@@ -26,7 +29,7 @@ Table:
 
 | **Commands and Keywords**                                                                                                                                               | **What They Do**                                                                                                                                                                        |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DARLING, LET'S RUN `<filename.tswizzle>`                                                                                                                                  | Executes `filename.tswizzle` file.                                                                                                                                                        |
+| I KNOW THE BRAVEST THING I EVER DID WAS RUN `<filename.tswizzle>`                                                                                                                                  | Executes `filename.tswizzle` file.                                                                                                                                                        |
 | GOODBYE GOODBYE GOODBYE                                                                                                                                                 | Marks the EOF when specified within the file, but when specified in the terminal directly, it acts as `pass` keyword.                                                                     |
 | AND I'LL SHOW YOU EVERY VERSION OF `<message>` TONIGHT                                                                                                                    | Prints `<message>` on the output screen/terminal where `<message>` can be anything the user wants to print, i.e., string, numbers, etc. Example: `AND I'LL SHOW YOU EVERY VERSION OF "Hello World" TONIGHT`      |
 | NUMBER ON ME                                                                                                                                                            | Converts user input to number/integer type. Basically an `<input_type>`.                                                                                                                  |
