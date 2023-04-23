@@ -116,7 +116,7 @@ def main():
       while True:
           try:
             text = input(lid + " (Taylor's Version) >>> " )
-            command = "DARLING, LET'S RUN "
+            command = "I KNOW THE BRAVEST THING I EVER DID WAS RUN "
             newfilepath=""
             try:
               if text.index(command)==0:
