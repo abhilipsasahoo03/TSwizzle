@@ -1,4 +1,4 @@
-<img src="./tswizzle.png" align="center"/>
+<img src="./tswizzle.jpg" align="center"/>
 
 # TSwizzle
 
