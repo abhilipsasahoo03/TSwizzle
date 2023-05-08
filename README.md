@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="./tswizzle.jpg" width="180" height="60"/>
-</p>
+<div align="center">
+  <img src="./tswizzle.jpg" width="300" height="100"/>
+  <hr>
+  <h1>TSwizzle</h1>
+  <h3>A Taylor Swift lyrics inspired esolang written in Python.</h3>
+</div>
 
-# TSwizzle
 
-A Taylor Swift lyrics inspired esolang written in Python.
-
-## Experience
+## My Experience
 Here's the link to [my Hashnode Blog on experimenting with Python to create TSwizzle](https://abelisaurus.hashnode.dev/tswizzle-how-taylor-swift-inspired-me-to-create-my-own-tiny-esolang).
 
 ## How to set The Eras Tour in your terminal
