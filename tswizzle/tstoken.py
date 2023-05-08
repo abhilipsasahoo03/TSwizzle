@@ -29,7 +29,7 @@ def assignInputType(code):
         code = code + " = [int(x) for x in input('Enter input: ').split()]"
     if code.find('INVISIBLE STRING TYING YOU TO ME ')==0:
         code = code.replace('INVISIBLE STRING TYING YOU TO ME ', '', 1)
-        code = code + " = [str(x) for x in input('Enter input: ').split()]"
+        code = code + " = input('Enter input: ')"
     return code
     
 def checkCondition(line):
