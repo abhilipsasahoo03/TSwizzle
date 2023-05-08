@@ -1,9 +1,12 @@
 <div align="center">
-  <img src="./tswizzle.jpg" width="300" height="100"/>
+  <img src="https://user-images.githubusercontent.com/80174214/236772644-c1f252e4-d608-446a-b889-628beb817179.png" width="300" height="100"/>
   <hr>
   <h1>TSwizzle</h1>
   <h3>A Taylor Swift lyrics inspired esolang written in Python.</h3>
 </div>
+
+
+
 
 
 ## My Experience
