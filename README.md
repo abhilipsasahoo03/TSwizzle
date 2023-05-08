@@ -26,7 +26,7 @@ Follow the below steps to either:
 
 **Step - 4**: Enter your favourite Taylor Swift era.
 
-**Step - 5**: To run your `.tswizzle` file, create your <filename.tswizzle> in a separate folder under the same workspace/folder the `tswizzle` folder is in, and then enter the command `DARLING, LET'S RUN <filename.tswizzle>`.
+**Step - 5**: To run your `.tswizzle` file, create your <filename.tswizzle> in a separate folder under the same workspace/folder the `tswizzle` folder is in, and then enter the command `I KNOW THE BRAVEST THING I EVER DID WAS RUN <filename.tswizzle>`.
 
 **Step - 6**: Otherwise, directly execute your code in the interactive terminal itself.
 
