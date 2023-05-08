@@ -1,4 +1,6 @@
-<img src="./tswizzle.jpg" align="center" width="180" height="60"/>
+<p>
+  <img src="./tswizzle.jpg" align="center" width="180" height="60"/>
+</p>
 
 # TSwizzle
 
