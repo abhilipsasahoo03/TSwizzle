@@ -1,5 +1,5 @@
-<p>
-  <img src="./tswizzle.jpg" align="center" width="180" height="60"/>
+<p align="center">
+  <img src="./tswizzle.jpg" width="180" height="60"/>
 </p>
 
 # TSwizzle
